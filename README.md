@@ -4,7 +4,7 @@
 - 🎓 3rd year B.Tech CSE student at Medi-caps University
 - 💻 Full-stack developer (Python, Django, HTML/CSS, JS)
 - 🤖 Learning AI, ML, and Data Science
-- 🏆 Top 50 at Smart India Hackathon 2024
+- 🏆 Top 50 at Smart India Hackathon 2025
 
 ## 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
