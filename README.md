@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mohammed Ayan Khan
 
 ## 🚀 About Me
-- 🎓 3rd year B.Tech CSE student at Medi-caps University
-- 💻 Full-stack developer (Python, Django, HTML/CSS, JS)
+- 🎓 Final year B.Tech CSE student at Medi-caps University
+- 💻 Data analyst with Full-stack developer (Python, Django, HTML/CSS, JS)
 - 🤖 Learning AI, ML, and Data Science
 - 🏆 Top 50 at Smart India Hackathon 2025
 
